@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Umar farooqui
-- 👀 I’m interested in Web development and Photography
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Fonemint.com
-- 📫 You can reach me out on Instagram The_Umar_Farooqui
+- 👀 interested in Web development and Photography
+- 🌱 currently learning PHP
+- 💞️ looking to collaborate on Fonemint.com
+- 📫 You can reach me out on Twitter @umar_farooqui
 
 <!---
 alifarooqui34/alifarooqui34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
