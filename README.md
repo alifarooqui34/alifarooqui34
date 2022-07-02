@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umar farooqui
 - 👀 interested in Web development and Android development
-- 🌱 currently learning PHP
+- 🌱 currently working As a flutter developr
 - 💞️ looking to collaborate on Fonemint.com
 - 📫 You can reach me out on Twitter @umar_farooqui
 
